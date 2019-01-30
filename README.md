@@ -1,5 +1,7 @@
 # HeroBlog
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7578cb8a-ab91-459d-947e-87f9c0e32eec/deploy-status)](https://app.netlify.com/sites/dreamy-minsky-fa8909/deploys)
+
 A [GatsbyJS](https://www.gatsbyjs.org/) blog starter. <br /><br />
 
 [![GitHub tag](https://img.shields.io/github/tag/greglobinski/gatsby-starter-hero-blog.svg)](https://github.com/greglobinski/gatsby-starter-personal-blog)
