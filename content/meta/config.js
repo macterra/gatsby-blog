@@ -1,23 +1,23 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "Infinite State Machine", // <title>
+  shortSiteTitle: "Infinite State Machine", // <title> ending for posts and pages
+  siteDescription: "random thoughts from macterra",
+  siteUrl: "https://blog.infinitestatemachine.me",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "macterra",
+  authorTwitterAccount: "macterra",
 
   /* info */
-  headerTitle: "David Lucifer",
+  headerTitle: "macterra",
   headerSubTitle: "random thoughts",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "Infinite State Machine",
+  manifestShortName: "ISMBlog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/macterra" },
+    { name: "twitter", url: "https://twitter.com/macterra" },
+    { name: "facebook", url: "http://facebook.com/david.mcfadzean" }
   ]
 };
